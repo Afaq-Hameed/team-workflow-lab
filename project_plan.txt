@@ -1,1 +1,2 @@
 this is our first repo
+Learning Objectives: Learn Git branching and collaboration.
